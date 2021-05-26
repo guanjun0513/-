@@ -12,3 +12,5 @@ http://de1se01.v2beat.live/playlist.m3u8
 http://live.m2.tv/hls3/stream.m3u8
 #EXTINF：-1,M2O音乐台
 http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF：-1,收藏天下
+http://125.210.152.18:9090/live/SCTX.m3u8
